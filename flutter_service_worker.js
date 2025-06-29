@@ -7,10 +7,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "4dbf02ec2228157c9d7ed098747e8036
 "assets/AssetManifest.bin.json": "a2ec44cde3ba6bc64f38a6c09128c71a",
 "assets/AssetManifest.json": "aac3c20ae17c0ae21517cf027fbfa93f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "d6e79091a31fd4549ec06cbc5e269668",
+"assets/fonts/MaterialIcons-Regular.otf": "90edaec85225ec069bb56522bd91ea9a",
 "assets/images/github.png": "ec3a60c8c6539a07eb70b52f6737ea6e",
 "assets/images/linked_in.png": "7b3d2b85f0db70013a11f405bfba607e",
-"assets/NOTICES": "6b017a43acc8289d232e7a2c59485c9a",
+"assets/NOTICES": "3de91ae833dfedb1b9592500b6d68654",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "6cfe36b4647fbfa15683e09e7dd366bc",
@@ -27,16 +27,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "4dbf02ec2228157c9d7ed098747e8036
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "50f925c39911ef759858ff04256ee975",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "0c93e242613da37b880b6aec349bf755",
+"flutter_bootstrap.js": "5748c1cbfacf8d4e5d628f71d74f1f83",
 "icons/Icon-192.png": "0da0c84a347802a7e677adf4e2eeedc1",
 "icons/Icon-512.png": "1fb1400fe498006e61a61c0ce502a0cb",
 "icons/Icon-maskable-192.png": "0da0c84a347802a7e677adf4e2eeedc1",
 "icons/Icon-maskable-512.png": "1fb1400fe498006e61a61c0ce502a0cb",
 "index.html": "5840c825c2ce126a5f560f230077fe22",
 "/": "5840c825c2ce126a5f560f230077fe22",
-"main.dart.js": "a718de84f6cddad74d65bd606694d98c",
+"main.dart.js": "78fa8d25efb7d060e997b6aeeb51fdfd",
 "manifest.json": "402f1f0bda157c4d84f0c6afa42585b2",
-"version.json": "ae8326acadfb5f7af48721c61fd0e003"};
+"version.json": "6fdac0fe1d9dde5ac120d1b86c9d078d"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
