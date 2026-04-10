@@ -67,6 +67,15 @@
     <link rel="manifest" href="manifest.json" />
   </head>
   <body>
+    <!-- Jitsi Meet External API for video calls - load only if not already loaded -->
+    <script>
+      if (typeof JitsiMeetExternalAPI === 'undefined') {
+        var script = document.createElement('script');
+        script.src = 'https://meet.jit.si/external_api.js';
+        script.type = 'application/javascript';
+        document.head.appendChild(script);
+      }
+    </script>
     <script src="flutter_bootstrap.js" async></script>
   </body>
 </html>
